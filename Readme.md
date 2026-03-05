@@ -11,7 +11,7 @@ The objective of this project is to demonstrate a real-world analytics workflow 
 
 ## Overview Dashboard
 
-![Overview Dashboard](assets/overview_dashboard.png)
+![Overview Dashboard](assets/ipl_overview.png)
 
 ## Team Performance Analysis
 
@@ -27,7 +27,7 @@ The objective of this project is to demonstrate a real-world analytics workflow 
 
 ## Venue Insights
 
-![Venue Analysis](assets/venue_analysis.png)
+![Venue Analysis](assets/venue_insights.png)
 
 ---
 
@@ -92,6 +92,12 @@ ipl-analytics-end-to-end/
 
 data/
 └── IPL.csv
+└── ipl_cleaned.csv
+└── ipl_deliveries_clean.csv
+└── ipl_matches_clean.csv
+└── ipl_team_season_summary.csv
+
+
 
 notebooks/
 ├── 01_data_understanding.ipynb
